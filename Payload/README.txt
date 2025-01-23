@@ -1,0 +1,1 @@
+Please run the LNK file as administrator, otherwise it won't work.
