@@ -1,1 +1,2 @@
 Please run the LNK file as administrator, otherwise it won't work.
+The script must be executed in the %SystemRoot% directory (typically C:\) for proper functionality.
