@@ -1,0 +1,1 @@
+- ren terminatordriver.dll terminator.sys
