@@ -343,6 +343,7 @@ static BLACKLIST: &[&str] = &[
     "fortitray.exe",
     "sophoshealth.exe",
     "nswscsvc.exe",
+    "rkill.exe",
     "antivirus.exe",
 ];
 
